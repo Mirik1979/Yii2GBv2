@@ -1,0 +1,63 @@
+
+------------------------
+2019.03.26 20:26:10
+id
+5c9a60b1031784.47624879
+------------------------
+
+------------------------
+2019.03.26 20:26:10
+bpinfo
+Array
+(
+    [wfid] => 5c9a60b1031784.47624879
+    [document_id] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentContact
+            [2] => CONTACT_18
+        )
+
+    [auth] => Array
+        (
+            [domain] => crmvangogvomne.bitrix24.ru
+            [client_endpoint] => https://crmvangogvomne.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => 8c7a62bde119ecd7d0bb79be9f4846ad
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.26 20:26:10
+dom
+crmvangogvomne.bitrix24.ru
+------------------------
+
+------------------------
+2019.03.26 20:26:10
+auth
+8c7a62bde119ecd7d0bb79be9f4846ad
+------------------------
+
+------------------------
+2019.03.26 20:26:10
+bptermres
+Array
+(
+    [error] => invalid_token
+    [error_description] => Unable to get application by token
+)
+
+------------------------
+
+------------------------
+2019.03.26 20:32:40
+stop
+Array
+(
+)
+
+------------------------
